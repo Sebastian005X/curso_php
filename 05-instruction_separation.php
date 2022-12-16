@@ -18,4 +18,6 @@ echo 'Hello World';
 
 <?= 'newline now' ?>
 
-<!--current: https://www.php.net/manual/en/language.types.intro.php-->
+<!--
+  current: https://www.php.net/manual/en/language.types.intro.php
+-->
