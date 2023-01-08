@@ -61,5 +61,13 @@ const SAY_HELLO = function () {
 /* 
 Las constantes declaradas con la palabra reservado const no pueden ser declaradas dentro de 
 funciones, loops, sentencia if o bloques try y catch.
+
+php tiene constantes magicas donde su valor depende en cual linea sea puesta. Aqui esta la
+lista: 
+https://www.php.net/manual/en/language.constants.magic.php 
 */
 ?>
+
+<!--
+  Current: https://www.php.net/manual/en/language.expressions.php
+-->
