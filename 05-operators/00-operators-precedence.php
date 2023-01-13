@@ -43,6 +43,13 @@ echo '<hr/>';
 $x = 4;
 echo 'x menos 1 es igual a '.($x-1).' o eso esperaba'; // esto estaria correcto
 // echo 'x menos 1 es igual a '.$x-1.' o eso esperaba'; esto daria error
+
+/* 
+  operadores unarios:
+  ! 
+  ++
+  --
+*/
 ?>
 
 <h1>Current: https://www.php.net/manual/en/language.operators.arithmetic.php</h1>
