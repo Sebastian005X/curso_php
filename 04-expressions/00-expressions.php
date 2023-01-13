@@ -51,3 +51,7 @@ lo que hace es que evalua una condición y si es true retorna un valor y si no
 retorna otro valor. Es parecido a la sentencia if.
 */
 ?>
+
+<!--
+  Current: https://www.php.net/manual/en/language.operators.precedence.php
+-->
