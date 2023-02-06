@@ -10,4 +10,5 @@ directorios, o crear archivos.
 */
 $output = `ls`;
 echo $output;
-echo `touch a.py`;
+?>
+<h1>https://www.php.net/manual/en/language.operators.increment.php</h1>
