@@ -6,16 +6,23 @@ class Person {
   public $name;
   public $age;
 
+  private function null() {
+    echo 'sin datos<br/>';
+  }
+
   // metodo
-  function print_info() {
+  public function print_info() {
     if ($this->name === null || $this->age === null) {
-      echo 'sin datos<br/>';
+      $this->null();
     } 
     else {
       echo "nombre: $this->name <br/>";
       echo "edad: $this->age <br/>";
     }
   }
+  /* 
+  $this me permite hacer referencia a las propiedades o metodos que estan dentro de mi clase.
+  */
 }
 
 // creando un nuevo objeto instanciado por la clase Person
